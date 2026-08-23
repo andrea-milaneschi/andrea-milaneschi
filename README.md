@@ -40,6 +40,16 @@ Reclami e difetti tracciati con causa, azione e costo. Non riduce i difetti da s
 
 ---
 
+### 🧾 [Controlli pre-elaborazione paghe](https://github.com/andrea-milaneschi/payroll-checks-demo)
+
+Sette controlli automatici che girano su un registro paghe **prima** che i cedolini escano: anagrafiche duplicate, contratti scaduti, ore fuori scala, netti incoerenti, variazioni improvvise, quadratura fra presenze e cedolino. Ogni controllo è una query SQL, non un filtro: la regola resta leggibile da chi conosce il dominio ma non Python.
+
+[**▶ Prova la demo**](https://payroll-checks-demo-6fsarjw8uroq4wof87hgwc.streamlit.app/) · `SQLite` `SQL` `Python` `Streamlit`
+
+[![Controlli pre-elaborazione paghe](https://raw.githubusercontent.com/andrea-milaneschi/digital-resume/main/assets/payroll.jpg)](https://payroll-checks-demo-6fsarjw8uroq4wof87hgwc.streamlit.app/)
+
+---
+
 ### Come lavoro
 
 **Parto dal problema, non dallo strumento.** Ho iniziato con Excel e VBA, poi ZOHO, oggi Python e Streamlit: cambio strumento quando il problema lo richiede, non per moda. A volte la risposta giusta è un foglio di calcolo scritto bene.
@@ -52,9 +62,19 @@ Reclami e difetti tracciati con causa, azione e costo. Non riduce i difetti da s
 
 ---
 
+### Pubblicazioni scientifiche
+
+Coautore di tre articoli peer-reviewed in chimica farmaceutica, durante il percorso di laboratorio e ricerca.
+
+1. Berrino E., Angeli A., Zhdanov D.D., Kiryukhina A.P., **Milaneschi A.**, De Luca A., Bozdag M., Carradori S., Selleri S., Bartolucci G., Peat T.S., Ferraroni M., Supuran C.T., Carta F. — *Azidothymidine "Clicked" into 1,2,3-Triazoles: First Report on Carbonic Anhydrase-Telomerase Dual-Hybrid Inhibitors.* **J Med Chem**, 2020;63(13):7392–7409. [doi:10.1021/acs.jmedchem.0c00636](https://doi.org/10.1021/acs.jmedchem.0c00636)
+
+2. Angeli A., Pinteala M., Maier S.S., Simionescu B.C., **Milaneschi A.**, Abbas G., Del Prete S., Capasso C., Capperucci A., Tanini D., Carta F., Supuran C.T. — *Evaluation of Thio- and Seleno-Acetamides Bearing Benzenesulfonamide as Inhibitor of Carbonic Anhydrases from Different Pathogenic Bacteria.* **Int J Mol Sci**, 2020;21(2):598. [doi:10.3390/ijms21020598](https://doi.org/10.3390/ijms21020598)
+
+3. Tanini D., Capperucci A., Scopelliti M., **Milaneschi A.**, Angeli A., Supuran C.T. — *Synthesis of thio- and seleno-acetamides bearing benzenesulfonamide as potent inhibitors of human carbonic anhydrase II and XII.* **Bioorg Chem**, 2019;89:102984. [doi:10.1016/j.bioorg.2019.102984](https://doi.org/10.1016/j.bioorg.2019.102984)
+
+
 ### Altro
 
 - 📄 **[CV completo in PDF](https://github.com/andrea-milaneschi/digital-resume/blob/main/CV_Milaneschi_Andrea.pdf)**
 - 💼 **[CV interattivo](https://digital-resume-cr3imorjk9qpatlrgsdxgr.streamlit.app/)** — la versione navigabile, costruita con Streamlit
-- 🔬 Coautore di tre pubblicazioni scientifiche peer-reviewed in chimica farmaceutica (2019–2020)
 - 📧 [andreamilaneschi95@gmail.com](mailto:andreamilaneschi95@gmail.com)
