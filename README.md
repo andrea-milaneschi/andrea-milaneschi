@@ -1,6 +1,6 @@
 # Andrea Milaneschi
 
-**Controllo di gestione e analisi dei dati per PMI manifatturiere · Valdarno e Arezzo**
+**Controllo di gestione e analisi dei dati per PMI manifatturiere · Valdarno, Arezzo, Firenze, Siena**
 
 Lavoro nell'industria manifatturiera dal 2020, tra produzione, laboratorio, qualità e ricerca e sviluppo. Oggi sono Responsabile del Laboratorio Controllo Qualità e R&S in Tecnomet, dove ho costruito anche il sistema di reporting su oltre 180.000 righe di gestionale: KPI, marginalità per commessa, preventivazione, analisi degli scostamenti. **Il report mensile alla direzione, che arrivava nella seconda settimana del mese, oggi è pronto in due o tre giorni lavorativi.**
 
@@ -21,11 +21,14 @@ Ho completato il Master in Controllo di Gestione della 24ORE Business School e, 
 
 ### Servizi
 
-- **Check-up economico-finanziario.** Bilancio riclassificato, indici, rendiconto finanziario e le 3–5 cose da sistemare. 1–2 settimane.
+- **Check-up di bilancio.** Bilancio riclassificato, indici, rendiconto finanziario e le 3–5 cose da sistemare. 1–2 settimane.
+- **Adeguati assetti.** Gli strumenti che l'art. 2086 del Codice civile chiede alle società: budget a 12 mesi e piano di cassa, previsione di cassa a 13 settimane, controllo mensile dei segnali di allarme dell'art. 3 del Codice della crisi, costo pieno e margini, procedura scritta. 4–6 settimane. Lavoro insieme al commercialista dell'azienda, non al suo posto.
 - **Analisi della marginalità.** Costo pieno orario e margine per cliente, articolo e commessa dai dati del gestionale. 3–4 settimane.
-- **Cruscotto mensile.** Conto economico mensile, budget e scostamenti, aggiornati e commentati ogni mese.
+- **Cruscotto mensile.** Conto economico mensile, budget e scostamenti, aggiornati e letti insieme ogni mese.
 
-Il primo incontro, di 20 minuti, è gratuito: [andreamilaneschi95@gmail.com](mailto:andreamilaneschi95@gmail.com)
+**Check-up gratuito:** fai il conto sul [calcolatore](https://andrea-milaneschi.github.io/calcolatore-costo-orario/), mandami il riepilogo e ricevi entro 48 ore lavorative una pagina di lettura dei tuoi numeri.
+
+Il primo incontro, di 20 minuti, è gratuito; poi un preventivo a corpo con tempi e consegne scritti. Di persona in Valdarno e nelle province di Arezzo, Firenze e Siena, a distanza nel resto d'Italia: [andreamilaneschi95@gmail.com](mailto:andreamilaneschi95@gmail.com)
 
 ---
 
