@@ -101,3 +101,5 @@ Coautore di tre articoli peer-reviewed in chimica farmaceutica, durante il perco
 - **[CV completo in PDF](https://github.com/andrea-milaneschi/digital-resume/blob/main/CV_Milaneschi_Andrea.pdf)** · **[CV interattivo](https://digital-resume-cr3imorjk9qpatlrgsdxgr.streamlit.app/)**
 - [LinkedIn](https://it.linkedin.com/in/andrea-milaneschi-a5abab196)
 - [andreamilaneschi95@gmail.com](mailto:andreamilaneschi95@gmail.com)
+
+<sub>Professione non organizzata in ordini o collegi ai sensi della Legge 14 gennaio 2013, n. 4. Non svolgo attività riservate agli iscritti in albi: revisione e attestazioni sui bilanci, adempimenti fiscali e del lavoro, mediazione creditizia.</sub>
