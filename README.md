@@ -15,7 +15,7 @@ Ho completato il Master in Controllo di Gestione della 24ORE Business School e, 
 | Strumento | Cosa fa |
 | --- | --- |
 | **[Quanto ti costa davvero un'ora di lavoro?](https://andrea-milaneschi.github.io/calcolatore-costo-orario/)** | Calcolatore gratuito: costo pieno di un'ora di produzione e quanto rende il cliente principale. I dati restano nel browser. |
-| **[Cruscotto di marginalità](https://andrea-milaneschi.github.io/cruscotto-marginalita-pmi/)** | Caso di esempio di una pelletteria terzista: margini per cliente, ponte dell'EBITDA e simulatore di scenari. |
+| **[Cruscotto di marginalità](https://andrea-milaneschi.github.io/cruscotto-marginalita-pmi/)** | Caso di esempio di un'officina meccanica conto terzi: margini per cliente, ponte dell'EBITDA e simulatore di scenari. |
 
 [![Cruscotto di marginalità](https://raw.githubusercontent.com/andrea-milaneschi/cruscotto-marginalita-pmi/main/anteprima.png)](https://andrea-milaneschi.github.io/cruscotto-marginalita-pmi/)
 
