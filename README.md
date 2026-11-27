@@ -2,6 +2,8 @@
 
 **Controllo di gestione e analisi dei dati per PMI manifatturiere · Valdarno, Arezzo, Firenze, Siena**
 
+🌐 **[andrea-milaneschi.github.io](https://andrea-milaneschi.github.io/)** · servizi, strumenti e contatti
+
 Lavoro nell'industria manifatturiera dal 2020, tra produzione, laboratorio, qualità e ricerca e sviluppo. Oggi sono Responsabile del Laboratorio Controllo Qualità e R&S in Tecnomet, dove ho costruito anche il sistema di reporting su oltre 180.000 righe di gestionale: KPI, marginalità per commessa, preventivazione, analisi degli scostamenti. **Il report mensile alla direzione, che arrivava nella seconda settimana del mese, oggi è pronto in due o tre giorni lavorativi.**
 
 Ho completato il Master in Controllo di Gestione della 24ORE Business School e, in parallelo al mio lavoro, aiuto le PMI manifatturiere a capire dove guadagnano e dove perdono: per cliente, per articolo, per commessa, partendo dai dati che hanno già.
